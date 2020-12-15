@@ -1,2 +1,2 @@
 # happy-sdk
-Happy SDK for robotic arm
+Happy SDK for chess robotic arm
