@@ -1,0 +1,9 @@
+La calibrazione ci permetterà di effettuare dei movimenti di precisione su ogni
+singola giuntura.
+Il braccio robotico ha a disposizione sei gradi di libertà ed un gripper per la raccolta
+di materiali.
+Per poter interagire con la singola articolazione devi indicarmi la giuntura ed
+il grado di movimento.
+Ad esempio: Voglio muovere la prima giuntura di 30 gradi.
+
+Rimango in attesa dei tuoi comandi vocali.

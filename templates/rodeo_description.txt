@@ -1,0 +1,4 @@
+Rodeo è la nostra operazione di prova casuale del moviemento delle giunture
+del braccio robotico, si tratta di una danza dimostrativa.
+Tuttavia l'operazione richiederà dello spazio disponibile.
+Per favore mantieni le distanze!

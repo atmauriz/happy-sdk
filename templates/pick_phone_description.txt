@@ -1,0 +1,4 @@
+L'operazione prendi telefono è il concreto scenario che utilizziamo per
+prendere un telefono ed effettuare delle rotazioni in landscape e portrait.
+Tuttavia l'operazione richiederà dello spazio disponibile.
+Per favore mantieni le distanze!
